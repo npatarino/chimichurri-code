@@ -4,7 +4,7 @@ subtitle: 'Charlando con los Androides de Jobandtalent'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/ep-1-square.jpg'
-spotifytrack: spotify/episode/5gkQgvH69VU2YgOzmcoTIR
+spotifytrack: 5gkQgvH69VU2YgOzmcoTIR
 ---
 
 ![](/images/ep-1.jpg)
