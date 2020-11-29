@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 1'
 subtitle: 'Charlando con los Androides de Jobandtalent'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/ep-1-square.jpg'
+featured_image: '/images/ep-1-square.png'
 spotifytrack: 5gkQgvH69VU2YgOzmcoTIR
 ---
 
-![](/images/ep-1.jpg)
+![](/images/ep-1.png)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 
