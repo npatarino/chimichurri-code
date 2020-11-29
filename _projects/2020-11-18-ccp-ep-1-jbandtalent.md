@@ -9,7 +9,7 @@ spotifytrack: spotify/episode/5gkQgvH69VU2YgOzmcoTIR
 
 ![](/images/ep-1.jpg)
 
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
+{% include spotifytrack.html id=page.spotifytrack %}
 
 En este episodio nos acompañan [Edu Pascua](https://twitter.com/), [Chema Rodríguez](https://twitter.com/durbon), 
 [Marcos Trujillo](https://twitter.com/Aracem) y [Saúl Díaz](https://twitter.com/sefford), todos compañeros de Jobandtalent y con los que charlamos sobre cómo está afectando la pandemia al equipo, sobre cómo se organizan y qué hace cada uno en su día a día.
