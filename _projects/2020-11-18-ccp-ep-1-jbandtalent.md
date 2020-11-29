@@ -1,14 +1,20 @@
 ---
-title: 'Podcast Chimichurri Code. Ep. 1'
+title: 'Podcast. Ep. 1'
 subtitle: 'Charlando con los Androides de Jobandtalent'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/ep-1-square.jpg'
+spotifytrack: spotify/episode/5gkQgvH69VU2YgOzmcoTIR
 ---
 
 ![](/images/ep-1.jpg)
 
-## Demo content
+{% include spotifyplaylist.html id=page.spotifyplaylist %}
+
+En este episodio nos acompañan [Edu Pascua](https://twitter.com/), [Chema Rodríguez](https://twitter.com/durbon), 
+[Marcos Trujillo](https://twitter.com/Aracem) y [Saúl Díaz](https://twitter.com/sefford), todos compañeros de Jobandtalent y con los que charlamos sobre cómo está afectando la pandemia al equipo, sobre cómo se organizan y qué hace cada uno en su día a día.
+
+A los mandos está [Nicolás Patarino](https://twitter.com/npatarino) y si querés conocer de primera mano cómo es ser parte de un equipazo como el de Jobandtalent, metele play y escuchá todo lo que tienen para contar.
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
