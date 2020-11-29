@@ -11,7 +11,7 @@ spotifytrack: 5gkQgvH69VU2YgOzmcoTIR
 
 {% include spotifytrack.html id=page.spotifytrack %}
 
-En este episodio nos acompañan [Edu Pascua](https://twitter.com/), [Chema Rodríguez](https://twitter.com/durbon), 
+En este episodio nos acompañan [Edu Pascua](https://twitter.com/edpascua), [Chema Rodríguez](https://twitter.com/durbon), 
 [Marcos Trujillo](https://twitter.com/Aracem) y [Saúl Díaz](https://twitter.com/sefford), todos compañeros de Jobandtalent, y con los que charlamos sobre cómo está afectando la pandemia al equipo, sobre cómo se organizan y qué hace cada uno en su día a día.
 
 A los mandos está [Nicolás Patarino](https://twitter.com/npatarino) y si querés conocer de primera mano cómo es ser parte de un equipazo como el de Jobandtalent, metele play y escuchá todo lo que tienen para contar.
