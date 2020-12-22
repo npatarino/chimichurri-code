@@ -3,7 +3,7 @@ title: 'Podcast. Ep. 2'
 subtitle: 'Charlando con los Androides de Habitissimo'
 date: 2020-12-02 18:00:00
 description: En este episodio nos acompañan Rocío Ortega, Edu Bosch y Javier Takano, todos compañeros de Habitissimo.
-featured_image: '/images/ep-2/cover-ep-2.png'
+featured_image: '/images/ep-2/ep-2-cover-square.png'
 spotifytrack: 2MZNYNAfmQXwxQNxkFfSAn
 ---
 

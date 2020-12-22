@@ -3,7 +3,7 @@ title: 'Podcast. Ep. 1'
 subtitle: 'Charlando con los Androides de Jobandtalent'
 date: 2020-11-18 18:00:00
 description: En este episodio nos acompañan Edu Pascua, Chema Rodríguez, Marcos Trujillo y Saúl Díaz, todos compañeros de Jobandtalent.
-featured_image: '/images/ep-1/cover-ep-1.png'
+featured_image: '/images/ep-1/ep-1-cover-square.png'
 spotifytrack: 5gkQgvH69VU2YgOzmcoTIR
 ---
 
