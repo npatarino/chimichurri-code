@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/logo-chimi.png
+  logo_image: /images/one-line.svg
   logo_width: 200
 
 menu_settings:
@@ -38,13 +38,13 @@ social_settings:
   instagram_url: ''
   snapchat_url: ''
   youtube_url: 'https://youtube.com/chimichurricode'
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
+  spotify_url: 'https://open.spotify.com/show/0fCxnCusjI9frMmdANEENl'
+  google_url: 'https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDY3MzQ3NS9lcGlzb2Rlcy9mZWVk'
+  apple_url: 'https://podcasts.apple.com/es/podcast/chimichurri-code/id1540996983'
+  deezer_url: 'https://www.deezer.com/en/show/1989502'
   medium_url: ''
   quora_url: ''
   amazon_url: ''
-  apple_url: ''
   android_url: ''
   tumblr_url: ''
   dribbble_url: ''
@@ -56,9 +56,11 @@ social_settings:
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: 'https://open.spotify.com/show/0fCxnCusjI9frMmdANEENl'
   bandcamp_url: ''
   linkedin_url: ''
+
+podcast_settings:
+  microphone-alt_url: 'https://www.ivoox.com/podcast-chimichurri-code_sq_f11110415_1.html'
 
 color_settings:
   background_color: '#ffffff'
