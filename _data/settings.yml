@@ -12,8 +12,8 @@ menu_settings:
 #      url: '/'
     - title: 'Home'
       url: '/'
-#    - title: 'About'
-#      url: '/about'
+    - title: 'About'
+      url: '/about'
 #    - title: 'Contact'
 #      url: '/contact'
 
