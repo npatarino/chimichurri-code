@@ -1,5 +1,5 @@
 ---
-title: 'Informativo Android Dev - 01/02/2021'
+title: 'Informativo Android Dev'
 subtitle: 'Resumen de las noticias de la semana del mundo Android'
 date: 2021-02-1 7:30:00
 featured_image: '/images/youtube/informativoAndroidDev.png'
