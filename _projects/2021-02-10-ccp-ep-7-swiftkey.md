@@ -4,7 +4,7 @@ subtitle: 'Charlando con los Androides de Microsfot SwiftKey'
 date: 2021-02-10 18:00:00
 description: En este episodio nos acompañan Bea Viñal y Víctor García ambos compañeros de Microsoft SwiftKey.
 featured_image: '/images/ep-7/ep-7-cover-square.png'
-spotifytrack: 55jHWnHVwaYjzd1ybOwSKp
+spotifytrack: 5ttXYkm0olWYxUg5u9n2Zy
 ---
 
 ![](/images/ep-6/cover-ep-7.png)
