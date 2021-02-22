@@ -7,7 +7,7 @@ featured_image: '/images/ep-7/ep-7-cover-square.png'
 spotifytrack: 5ttXYkm0olWYxUg5u9n2Zy
 ---
 
-![](/images/ep-6/cover-ep-7.png)
+![](/images/ep-7/cover-ep-7.png)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 
