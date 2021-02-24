@@ -14,8 +14,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-#    - title: 'Contact'
-#      url: '/contact'
+    - title: 'Escuchame'
+      url: '/listen'
 
 footer_settings:
   footer_tagline: From 🇦🇷 with ♥️ and 💻.

@@ -19,8 +19,7 @@ A veces hablo en conferencias como [T3chFest](https://t3chfest.es/), [CommitConf
 [podcast de Chimichurri Code](https://open.spotify.com/show/0fCxnCusjI9frMmdANEENl) o en 
 [otro](https://www.youtube.com/results?search_query=developars+cafe+gdg+spain), junto a [Andreu](https://twitter.com/andreuibanez).
 
-También a veces hago vídeos en el [canal de Chimichurri Code](https://www.youtube.com/chimichurricode), 
-un canal muy poco mantenido de Youtube.
+También de vez en cuando hago vídeos en el [canal de Chimichurri Code](https://www.youtube.com/chimichurricode).
 
 ## TL:DR
 
@@ -35,3 +34,5 @@ un canal muy poco mantenido de Youtube.
 🐤 Si sólo querés leerme, seguime en [Twitter](https://twitter.com/npatarino).
 
 📺 Si querés ver alguna charla mía, buscame en [Youtube](https://www.youtube.com/results?search_query=Nicol%C3%A1s+Patarino).
+
+☕️ Si querés invitarme un café, hacelo en [buymeacoffee](https://www.buymeacoffee.com/npatarino).
