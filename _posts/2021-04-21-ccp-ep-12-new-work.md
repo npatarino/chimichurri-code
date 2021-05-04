@@ -17,7 +17,7 @@ En este episodio nos acompañan [Júlia Garrigós](https://twitter.com/JuliaGarr
 
 
 A los mandos está [Nicolás Patarino](https://twitter.com/npatarino) y si querés conocer de primera mano cómo es ser 
-parte de un equipazo como el de Worldline, metele play y escuchá todo lo que tienen para contar.
+parte de un equipazo como el de New Work, metele play y escuchá todo lo que tienen para contar.
 
 Links relevantes del episodio:
 
