@@ -35,4 +35,4 @@ También de vez en cuando hago vídeos en el [canal de Chimichurri Code](https:/
 
 📺 Si querés ver alguna charla mía, buscame en [Youtube](https://www.youtube.com/results?search_query=Nicol%C3%A1s+Patarino).
 
-☕️ Si querés invitarme un café, hacelo en [buymeacoffee](https://www.buymeacoffee.com/npatarino).
+🧉️ Si querés invitarme un mate, hacelo en [buymeacoffee](https://www.buymeacoffee.com/npatarino).
