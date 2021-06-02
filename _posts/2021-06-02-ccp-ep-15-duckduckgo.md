@@ -15,7 +15,7 @@ En este episodio nos acompañan [Aitor Viana](https://twitter.com/aitorvs), [Cri
 
 
 A los mandos está [Nicolás Patarino](https://twitter.com/npatarino) y si querés conocer de primera mano cómo es ser 
-parte de un equipazo como el de Cabify, metele play y escuchá todo lo que tienen para contar.
+parte de un equipazo como el de DuckDuckGo, metele play y escuchá todo lo que tienen para contar.
 
 Links relevantes del episodio:
 
