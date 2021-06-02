@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 10'
 subtitle: 'Charlando con los Androides de Mercadona Tech'
 date: 2021-03-24 18:00:00
 description: En este episodio nos acompañan Edgar Miró, Joel Ruíz y Luis Cencillo todos compañeros en Mercadona Tech.
-featured_image: '/images/ep-10/ep-10-cover-square.png'
+featured_image: '/images/ep-10/ep-10-cover-square.webp'
 spotifytrack: 05yQcfCuhmDSucTykeqsE2
 ---
 
-![](/images/ep-10/cover-ep-10.png)
+![](/images/ep-10/cover-ep-10.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

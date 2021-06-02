@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 3'
 subtitle: 'Charlando con los Androides de Tuenti'
 date: 2020-12-16 18:00:00
 description: En este episodio nos acompañan David Pastor, David Santiago, Guillermo Merino y Miguel Barrios, todos compañeros de Tuenti.
-featured_image: '/images/ep-3/ep-3-cover-square.png'
+featured_image: '/images/ep-3/ep-3-cover-square.webp'
 spotifytrack: 6d1LhUaLRceqzekR0Jy2w3
 ---
 
-![](/images/ep-3/cover-ep-3.png)
+![](/images/ep-3/cover-ep-3.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

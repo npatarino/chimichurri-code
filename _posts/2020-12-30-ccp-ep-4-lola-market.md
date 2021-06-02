@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 4'
 subtitle: 'Charlando con los Androides de Lola Market'
 date: 2020-12-30 18:00:00
 description: En este episodio nos acompañan Melanie Durá y Héctor de Isidro, todos compañeros de Lola Market.
-featured_image: '/images/ep-4/ep-4-cover-square.png'
+featured_image: '/images/ep-4/ep-4-cover-square.webp'
 spotifytrack: 7LG4E2Mpb2n9sQYCh4Ocm4
 ---
 
-![](/images/ep-4/cover-ep-4.png)
+![](/images/ep-4/cover-ep-4.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

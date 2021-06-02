@@ -2,7 +2,7 @@
 title: Nicolás Patarino
 subtitle: 🔥 Asador del software y 🇦🇷 barrabrava de Android en @TymitApp.
 description: 🔥 Asador del software y 🇦🇷 barrabrava de Android en @TymitApp.
-featured_image: /images/main/pexels-sora-shimazaki-5926399.jpg
+featured_image: /images/main/pexels-sora-shimazaki-5926399.webp
 ---
 
 ## Acerca de mí

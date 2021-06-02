@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 14'
 subtitle: 'Charlando con los Androides de Cabify'
 date: 2021-05-14 18:00:00
 description: En este episodio nos acompañan Gema Socorro, Álvaro Hidalgo y José García.
-featured_image: '/images/ep-14/cover-ep-14-square.png'
+featured_image: '/images/ep-14/cover-ep-14-square.webp'
 spotifytrack: 5ueUplw0xV9BEIztaN2nUI
 ---
 
-![](/images/ep-14/cover-ep-14.png)
+![](/images/ep-14/cover-ep-14.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

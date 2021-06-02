@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 7'
 subtitle: 'Charlando con los Androides de Microsfot SwiftKey'
 date: 2021-02-10 18:00:00
 description: En este episodio nos acompañan Bea Viñal y Víctor García ambos compañeros de Microsoft SwiftKey.
-featured_image: '/images/ep-7/ep-7-cover-square.png'
+featured_image: '/images/ep-7/ep-7-cover-square.webp'
 spotifytrack: 5ttXYkm0olWYxUg5u9n2Zy
 ---
 
-![](/images/ep-7/cover-ep-7.png)
+![](/images/ep-7/cover-ep-7.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

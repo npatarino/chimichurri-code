@@ -2,7 +2,7 @@
 title: 'Por qué estos 10+1 podcasts son mis favoritos'
 subtitle: 'Los Code Reviews ya están interiorizados en muchos equipos como una herramienta para mejorar la calidad de su código, aunque en muchos de ellos esto provoca más incomodidad que beneficios, más conflictos internos que consensos, más pérdida de tiempo que resultados, de estas premisas nace esta historia donde contar algunos secretos de un buen y un mal code review.'
 date: 2020-05-28 21:30:00
-featured_image: '/images/youtube/para-todos.png'
+featured_image: '/images/youtube/para-todos.webp'
 ---
 
 Hace unos días [Gabi Moreno](https://twitter.com/soygabimoreno) publicó un tweet en el que compartía su [Top 5](https://twitter.com/soygabimoreno/status/1382951008964390914) de podcasts de programación y como yo soy un gran fan del formato podcast también me animé a publicar el [top de mis diez](https://twitter.com/sdelamo/status/1385917458658308097) podcasts de tecnología preferidos, pero no me quería quedar ahí sólo recomendando, así que dije vamos a contar no sólo cuál es mi top, sino también el por qué. 

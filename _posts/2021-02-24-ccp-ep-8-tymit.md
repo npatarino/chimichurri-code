@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 8'
 subtitle: 'Charlando con los Androides de Tymit'
 date: 2021-02-24 18:00:00
 description: En este episodio nos acompañan David González Verdugo, Francisco Hernández y Juan Gómez Trapero todos compañeros de Tymit.
-featured_image: '/images/ep-8/ep-8-cover-square.png'
+featured_image: '/images/ep-8/ep-8-cover-square.webp'
 spotifytrack: 3mF9EruJ6pArKW7aEgxHUD
 ---
 
-![](/images/ep-8/cover-ep-8.png)
+![](/images/ep-8/cover-ep-8.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

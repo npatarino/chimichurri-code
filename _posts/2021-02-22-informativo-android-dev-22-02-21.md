@@ -2,7 +2,7 @@
 title: 'Informativo Android Dev'
 subtitle: 'Resumen de las noticias de la semana del mundo Android'
 date: 2021-02-22 7:30:00
-featured_image: '/images/youtube/informativoAndroidDev.png'
+featured_image: '/images/youtube/informativoAndroidDev.webp'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ak1kqOnhqXM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -125,7 +125,7 @@ Inside the `/images/` folder you'll find a few images included with the theme.
 
 The images in the `/demo/` subfolder are used in the demo project, post and page – you delete those if you don't need them.
 
-`favicon.png` – you should replace this with the favicon image you'd like to use for your website.
+`favicon.webp` – you should replace this with the favicon image you'd like to use for your website.
 
 `social.jpg` – this image is used by default as the meta image on the Home and Blog pages. This shows up on social shares of your page, for example Facebook or Twitter – so you should change it to a relevant image, or change the image URL in that page's Front Matter (see below).
 

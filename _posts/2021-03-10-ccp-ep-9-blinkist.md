@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 9'
 subtitle: 'Charlando con los Androides de Blinkist'
 date: 2021-03-10 18:00:00
 description: En este episodio nos acompañan David Lázaro y Lara Martín compañeros en Blinkist.
-featured_image: '/images/ep-9/ep-9-cover-square.png'
+featured_image: '/images/ep-9/ep-9-cover-square.webp'
 spotifytrack: 05yQcfCuhmDSucTykeqsE2
 ---
 
-![](/images/ep-9/cover-ep-9.png)
+![](/images/ep-9/cover-ep-9.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 12'
 subtitle: 'Charlando con los Androides de New Work'
 date: 2021-04-21 18:00:00
 description: En este episodio nos acompañan Júlia Garrigós, Carlos Carrasco y Rubén Abad.
-featured_image: '/images/ep-12/cover-ep-12-square.png'
+featured_image: '/images/ep-12/cover-ep-12-square.webp'
 spotifytrack: 5MfKLwzLHHyuNCw1y4deHs
 ---
 
-![](/images/ep-12/cover-ep-12.png)
+![](/images/ep-12/cover-ep-12.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

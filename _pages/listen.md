@@ -2,7 +2,7 @@
 title: Escuchame
 subtitle: Si querés escuchar el podcast de Chimichurri Code acá tenes muchas opciones.
 description: Listado de links de algunas de las plataformas donde podés escuchar el podcast.
-featured_image: /images/main/listenme.png
+featured_image: /images/main/listenme.webp
 ---
 
 [Spotify](https://open.spotify.com/show/0fCxnCusjI9frMmdANEENl).

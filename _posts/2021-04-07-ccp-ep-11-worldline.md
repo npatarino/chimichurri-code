@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 11'
 subtitle: 'Charlando con los Androides de Worldline'
 date: 2021-04-07 18:00:00
 description: En este episodio nos acompañan Daniel Llano, Pilar García y Sergio Casero.
-featured_image: '/images/ep-11/cover-ep-11-square.png'
+featured_image: '/images/ep-11/cover-ep-11-square.webp'
 spotifytrack: 1d7eHaGQe7lGtuvfmlxlIm
 ---
 
-![](/images/ep-11/cover-ep-11.png)
+![](/images/ep-11/cover-ep-11.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 

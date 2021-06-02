@@ -3,11 +3,11 @@ title: 'Podcast. Ep. 5'
 subtitle: 'Charlando con los Androides de eDreams'
 date: 2021-01-13 18:00:00
 description: En este episodio nos acompañan Ana Aguilar Alonso, David Torralbo y Hugo Matilla, todos compañeros de eDreams.
-featured_image: '/images/ep-5/ep-5-cover-square.png'
+featured_image: '/images/ep-5/ep-5-cover-square.webp'
 spotifytrack: 7eA11cwcB4AULRfaWncfyC
 ---
 
-![](/images/ep-5/cover-ep-5.png)
+![](/images/ep-5/cover-ep-5.webp)
 
 {% include spotifytrack.html id=page.spotifytrack %}
 
