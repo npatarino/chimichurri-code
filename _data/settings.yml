@@ -39,7 +39,7 @@ social_settings:
   snapchat_url: ''
   youtube_url: 'https://youtube.com/chimichurricode'
   spotify_url: 'https://open.spotify.com/show/0fCxnCusjI9frMmdANEENl'
-  google_url: 'https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDY3MzQ3NS9lcGlzb2Rlcy9mZWVk'
+  google_url: 'https://podcasts.google.com/feed.xml/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDY3MzQ3NS9lcGlzb2Rlcy9mZWVk'
   apple_url: 'https://podcasts.apple.com/es/podcast/chimichurri-code/id1540996983'
   deezer_url: 'https://www.deezer.com/en/show/1989502'
   medium_url: ''
